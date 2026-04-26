@@ -136,31 +136,6 @@ JWT_SECRET=your_secret
 
 ---
 
-## 📌 Future Improvements
-
-* 📡 Real-time stock API integration
-* 📉 Advanced charting (candlestick graphs)
-* 🔔 Notifications system
-* 💳 Payment gateway integration
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the repo and submit a pull request.
-
----
-
-## 📧 Contact
-
-For any queries or collaboration:
-
-* GitHub: https://github.com/your-username
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-
 ## ⭐ Acknowledgment
 
 Inspired by the Zerodha trading platform for educational purposes.
