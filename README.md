@@ -7,6 +7,9 @@ This project simulates real-world trading workflows including user authenticatio
 
 # Live Link --
 
+https://zerodhas-clone-seven.vercel.app/
+https://zerodha-dashboard-eight-beryl.vercel.app/
+
 ---
 
 ## 🚀 Features
